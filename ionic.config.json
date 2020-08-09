@@ -1,0 +1,7 @@
+{
+  "name": "investec-dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -7,7 +7,7 @@
     "@ionic/react": "^5.0.7",
     "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "^5.3.1",
-    "investec-openapi": "^4.5.2",
+    "investec-openapi": "^4.5.3",
     "ionicons": "^5.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",

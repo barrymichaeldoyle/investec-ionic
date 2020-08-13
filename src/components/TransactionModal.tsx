@@ -7,10 +7,8 @@ import {
   IonHeader,
   IonToolbar,
   IonTitle,
-  IonBackButton,
   IonButtons,
   IonLabel,
-  IonSegment,
 } from '@ionic/react'
 import React, { FC, useCallback } from 'react'
 
